@@ -32,3 +32,21 @@ img {
   max-width: 100%;
   display: block;
 }
+
+/* ### UTILITIES ### */
+
+.stack > * + * {
+  margin-top: var(--stack-gap, 1rem);
+}
+
+.text-white {
+  color: var(--text-color, white);
+}
+
+.text-purple {
+  color: var(--primary-soft-violet);
+}
+
+.bg-blue {
+  background-color: var(--primary-desaturated-blue);
+}
