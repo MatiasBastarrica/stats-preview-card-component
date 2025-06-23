@@ -19,3 +19,16 @@
   --ff-inter: "Inter", sans-serif;
   --ff-lexend-deca: "Lexend Deca", sans-serif;
 }
+
+/* ### CSS RESET ### */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
