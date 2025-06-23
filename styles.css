@@ -73,7 +73,7 @@ main {
 
 .stats-component {
   --stack-gap: 1.6rem;
-  max-width: 654px;
+  max-width: 450px;
   border-radius: 0.6rem;
   overflow: hidden;
   display: flex;
