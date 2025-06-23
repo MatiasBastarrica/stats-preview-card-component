@@ -49,7 +49,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned to use the filter CSS property and got confortable using grid for the desktop layout.
+I learned to use the filter CSS property and got comfortable using grid for the desktop layout.
 
 ### Useful resources
 
